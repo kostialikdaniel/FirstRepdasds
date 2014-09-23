@@ -1,4 +1,2 @@
-FirstRepdasds
-=============
-
-Prototip 
+  This is text of readme
+  
